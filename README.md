@@ -10,4 +10,4 @@ I review pull requests against their tickets. Every finding cites a fact, a file
 
 ## Work
 
-Public repos I contribute to: [the0xLab/inmates](https://github.com/the0xLab/inmates)
+I work on public and private projects. Public repos I contribute to include: [the0xLab/inmates](https://github.com/the0xLab/inmates)
